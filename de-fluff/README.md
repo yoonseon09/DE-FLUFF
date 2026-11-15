@@ -6,7 +6,7 @@ Large language models can respond differently to the same question depending on 
 
 We compared responses to identical financial fraud questions under two user personas. We then fine-tuned Qwen2.5-7B-Instruct with Direct Preference Optimization (DPO), aiming to reduce unnecessary wording while retaining essential safety instructions.
 
-This work was completed as a Natural Language Processing final project in Spring 2026. See the [final report](docs/NLP_FinalReport_Fluff.pdf) and [presentation](docs/NLP_Final_Presentation.pdf) for more details.
+This work was completed as a Natural Language Processing final project in Spring 2026. 
 
 ## Research questions
 
