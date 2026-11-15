@@ -1,0 +1,18 @@
+# 01: 가설 검증 · DPO 데이터 생성
+google-genai>=1.64.0,<2.0.0
+pandas
+numpy
+
+# 02 · 03: DPO 학습 · 추론 (CUDA GPU 필요)
+torch
+transformers
+accelerate
+peft
+bitsandbytes
+trl
+datasets
+matplotlib
+
+# 04: (실험) 로컬 De-Fluff 파이프라인
+llmlingua
+# summac   # 선택 사항. 다른 패키지와 버전이 충돌할 수 있어 필요할 때 따로 설치하세요.
